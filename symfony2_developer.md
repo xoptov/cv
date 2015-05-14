@@ -1,3 +1,0 @@
-Резюме CV:
-
-Personal inforamtion:
