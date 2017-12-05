@@ -6,7 +6,7 @@
 Адрес: Россия, город Анапа  
 Телефон: +7(988)331-0019  
 Email: xoptov@mail.ru  
-Skype: xoptov
+Telegram: @xoptov
 
 Цель или желаемая позиция
 ---
