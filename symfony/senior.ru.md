@@ -30,11 +30,11 @@ Telegram: @xoptov
 ---
 Категория               | Элименты
 ------------------------|-------------------------------------------------
-Programming languages   | PHP 5, 7; JavaScript; Python; Java; C/C++
+Programming languages   | PHP 5.6.x и 7.x, JavaScript, Python, Java, C/C++
 Operation systems       | FreeBSD, Linux
 HTTP services           | nginx, Apache2
 PHP frameworks          | Symfony, CodeIgniter, Kohana
-JavaScript frameworks   | Backbone.js, MarionetteJS, AngularJS
+JavaScript frameworks   | BackboneJS, MarionetteJS, AngularJS
 Databases               | MySQL, PostgreSQL, MongoDB
 Additional services     | Redis, Memcache, Varnish, OpenSSL
 Deployment services     | Capifony, Deployer
