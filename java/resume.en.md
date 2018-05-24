@@ -1,17 +1,17 @@
-Resume for Java Middle Developer
+Resume for Java Developer
 ===
 General information
 ---
 Name and Surname: Maksim Khortov  
-Phone number: +7(988)331-0019  
-Address: Russia, Anapa, Raevskaja  
-Email: xoptov@mail.ru  
+Phone number: +1(718)710-7892  
+Address: Brooklyn, NY, USA  
+Email: xoptov@gmail.com  
 Skype: xoptov  
 Date of birth: 10.07.1985
 
 Desired position
 ---
-I want to be Java Middle Developer in your team.
+For short-term purposes I would become a member of the team as developer. For long-term purposes I would become a team leader.
 
 Goals
 ---
@@ -28,24 +28,23 @@ Personal profile
 Languages
 ---
 - Russian(native);
-- English(pre-intermediate).
+- English(intermediate).
 
 Experience
 ---
 Category                 | Items
 -------------------------|-----------------------------------------------------------------------------
-Programming languages    | Java, PHP, JavaScript
+Programming languages    | Java, JavaScript
 Operation systems        | FreeBSD, Debian, Ubuntu, Mac OSX
-HTTP services            | nginx, Apache2, Glassfish, Tomcat
-Frameworks               | Symfony2, Doctrine2, Spring, Hibernate, Backbone.js, MarionetteJS, AngularJS
+HTTP services            | Glassfish, Tomcat
+Frameworks               | Java EE, Spring, Hibernate, Backbone.js, MarionetteJS, AngularJS
 Databases                | MySQL, PostgreSQL, MSSQL
 Key Value storages       | Redis, Memcache
 Cache services           | Varnish
 IC services              | Jenkins
-Deployment services      | Capifony
 AMPQ services            | RabbitMQ, OpenMQ
 Full text search engines | Elasticsearch, Sphinx
-Testing                  | phpunit, PhpSpec, Selenium, Phantomjs
+Testing                  | JUnit, Selenium, Phantomjs
 Integration with         | AWS S3, PayPal, Facebook, VK, Google
 Version control systems  | git, svn
 Virtualization           | VirtualBox, Vagrant
@@ -55,6 +54,8 @@ Career history
 ---
 Company          | Position  | Period              | OS             | Languages
 -----------------|-----------|---------------------|----------------|----------------------
+Linbo LLC        | Team lead | Aug 2016 - Apr 2018 | Linux          | Java, JavaScript
+Fin Service LLC  | Developer | Jun 2015 - Aug 2016 | Linux          | Java, JavaScript
 Clever-Web LLC   | Team lead | Jun 2013 - May 2015 | Linux, MacOSX  | PHP, Java, JavaScript
 Yug-Avto LLC     | Developer | May 2012 - Jun 2013 | Linux, FreeBSD | PHP, JavaScript
 RA Dom na Tamani | Developer | Jan 2011 - May 2012 | Linux, FreeBSD | PHP, JavaScript
@@ -72,4 +73,4 @@ Sep 2003 - Jul 2008 | Far Eastern Federal University, Physics and Computer Scien
 
 Interests
 ---
-My hobbie reading book about new computer technologies.
+My hobbie reading book about new computer technologies. Learning a different approach in development.
