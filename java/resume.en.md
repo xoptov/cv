@@ -1,65 +1,17 @@
-Resume for Java Developer
+Resume
 ===
-General information
+Personal information
 ---
-Name and Surname: Maksim Khortov  
-Phone number: +1(718)710-7892  
-Address: Brooklyn, NY, USA  
+Name: Maksim Khortov  
+Address: USA, Brooklyn, NY  
+Phone: +1(718)710-7892  
 Email: xoptov@gmail.com  
+Telegram: @xoptov  
 Skype: xoptov  
-Date of birth: 10.07.1985
 
-Desired position
+Objective
 ---
-For short-term purposes I would become a member of the team as developer. For long-term purposes I would become a team leader.
-
-Goals
----
-I going to finding interesting job in hakers team working on interesting project. I want increase my experience in Java World and taking more experience from development great and ambitious projects. The my main goal is laboriously work for the common good of the company and get satisfaction from their work. My second goal is increasing quality of their work.
-
-Personal profile
----
-- Responsibility;
-- Sociability;
-- Fast studying;
-- Industry;
-- Perfectionism.
-
-Languages
----
-- Russian(native);
-- English(intermediate).
-
-Experience
----
-Category                 | Items
--------------------------|-----------------------------------------------------------------------------
-Programming languages    | Java, JavaScript
-Operation systems        | FreeBSD, Debian, Ubuntu, Mac OSX
-HTTP services            | Glassfish, Tomcat
-Frameworks               | Java EE, Spring, Hibernate, Backbone.js, MarionetteJS, AngularJS
-Databases                | MySQL, PostgreSQL, MSSQL
-Key Value storages       | Redis, Memcache
-Cache services           | Varnish
-IC services              | Jenkins
-AMPQ services            | RabbitMQ, OpenMQ
-Full text search engines | Elasticsearch, Sphinx
-Testing                  | JUnit, Selenium, Phantomjs
-Integration with         | AWS S3, PayPal, Facebook, VK, Google
-Version control systems  | git, svn
-Virtualization           | VirtualBox, Vagrant
-Test and bug trackers    | Jira, RedMine
-
-Career history
----
-Company          | Position  | Period              | OS             | Languages
------------------|-----------|---------------------|----------------|----------------------
-Linbo LLC        | Team lead | Aug 2016 - Apr 2018 | Linux          | Java, JavaScript
-Fin Service LLC  | Developer | Jun 2015 - Aug 2016 | Linux          | Java, JavaScript
-Clever-Web LLC   | Team lead | Jun 2013 - May 2015 | Linux, MacOSX  | PHP, Java, JavaScript
-Yug-Avto LLC     | Developer | May 2012 - Jun 2013 | Linux, FreeBSD | PHP, JavaScript
-RA Dom na Tamani | Developer | Jan 2011 - May 2012 | Linux, FreeBSD | PHP, JavaScript
-Japancaps.ru     | Developer | Jul 2008 - Jan 2011 | FreeBSD        | PHP, JavaScript
+I want to craft great software alone or with teams whose members skills and talents fit together well.  Ten years of building large and complex WEB applications plus a natural talent for programming turned me into the software developer I could not have imagined when I began programming years ago. My ability to build very large and complex web applications naturally implies that I welcome the  challenges of realizing daring ideas. That is aside from the opportunity of learning something new ,which every new challenge brings. Needless to say that I also have a thorough grasp of the HTTP protocol and how to develop WEB services using SOAP or Restful. I do not only build my beauties in record time but also build them by nothing less than the cleanest code. It is enough to say that the softwares I build just works. That is great for me, great for my clients and great for my past employers.   
 
 Education
 ---
@@ -71,6 +23,44 @@ Sep 2010 - Nov 2010 | Networks and Linux courses
 Sep 2006 - Jul 2009 | Far Eastern Federal University, Computer Science
 Sep 2003 - Jul 2008 | Far Eastern Federal University, Physics and Computer Science
 
-Interests
+Experience
 ---
-My hobbie reading book about new computer technologies. Learning a different approach in development.
+Period            | Company         | Position              | Description
+------------------|-----------------|-----------------------|-----------------------------------------------------------
+07.2016 - 04.2018 | Linbo LLC       | Co-Founder, Team lead | I am working on StartUp Linbo Advanced advertise board
+06.2015 - 07.2016 | Fin Service LLC | Fullstack Developer   | The company develops software for e-commerce and financial
+05.2013 - 05.2015 | Clever-Web LLC  | Fullstack Developer   | The company develops software to order  
+05.2012 - 05.2013 | Yug-Avto LLC    | Fullstack Developer   | Dealer network for the sale of new cars of famous brands  
+01.2011 - 05.2012 | Dom na Tamani   | Fullstack Developer   | Real estate agency  
+07.2008 - 01.2011 | japancaps.ru    | Founder, Developer    | Service for the delivery of cars from the Japanese auction
+
+Skills
+---
+Category                    | Items
+----------------------------|------------------------------------------------------------
+Programming languages       | Java, JavaScript, TypeScript, CoffeeScript, Shell Script
+Query languages             | SQL
+Layout languages            | HTML 5, CSS, SASS, SCSS, Less 
+Methodologies               | OOA, OOD, OOP, Design patterns, TDD
+Standards                   | RESTful, SOAP
+Understanding protocols     | IP, TCP, UDP, HTTP, HTTPS, WebSocket, FTP, SMTP, XMPP
+Backend frameworks          | J2EE, Spring
+Frontend frameworks         | Angular, BackboneJS, MarionetteJS, jQuery, Bootstrap
+Databases                   | MySQL, PostgreSQL, MongoDB, SQLite, Derby, Microsoft Access
+DB frameworks               | JPA, Hibernate
+Storage services            | Redis, Memcache
+Messaging services          | OpenMQ, ActiveMQ, RabbitMQ
+WebSocket services          | SocketIO
+Caching services            | JCS, Varnish
+Build tools                 | Maven, Gradle
+Continuous Integration      | Jenkins
+Fulltext search services    | Elasticsearch, Sphinx
+Multiprocessing services    | Gearman
+Testing tools               | Junit
+Application services        | GlassFish
+Servlet services            | Tomcat    
+Version control             | Git, SVN
+Virtualization              | VirtualBox, Vagrant, Docker
+Operation systems           | FreeBSD, Debian, Ubuntu, Mac OSX, Windows
+AWS services                | EC2, S3, DynamoDB, RDS, Lambda
+Payment system integrations | PayPal, WebMoney, Perfect Money, Qiwi, Stripe, Skrill

@@ -37,27 +37,27 @@ Period            | Company         | Position              | Description
 Skills
 ---
 Category                    | Items
-----------------------------|--------------------------------------------------------
-Programming languages       | PHP, JavaScript, TypeScript, CoffeeScript, Shell Script
+----------------------------|-----------------------------------------------------------
+Programming languages       | Python, JavaScript, TypeScript, CoffeeScript, Shell Script
 Query languages             | SQL
 Layout languages            | HTML 5, CSS, SASS, SCSS, Less 
 Methodologies               | OOA, OOD, OOP, Design patterns, TDD
 Standards                   | RESTful, SOAP
-Understanding protocols     | IP, TCP, UDP, HTTP, HTTPS, WebSocket, FTP, SMTP, XMPP
-Backend frameworks          | Symfony, CodeIgniter, Kohana, Yii
-Frontend frameworks         | Angular, BackboneJS, MarionetteJS, jQuery
-Databases                   | MySQL, PostgreSQL, MongoDB, SQLite, Microsoft Access
-DB frameworks               | Doctrine ORM, Propel
-Storage services            | Redis
+Understanding Protocols     | IP, TCP, UDP, HTTP, HTTPS, WebSocket, FTP, SMTP, XMPP
+Backend frameworks          | Django, Pyramid
+Frontend frameworks         | Angular, BackboneJS, MarionetteJS, jQuery, Bootstrap
+Databases                   | MongoDB, PostgreSQL, MySQL, SQLite, Microsoft Access
+DB frameworks               | Django ORM, SQLAlchemy
+Storage services            | Redis, Memcache
 Messaging services          | RabbitMQ
 WebSocket services          | SocketIO
-Caching services            | Memcache, Varnish
-Package managers            | composer, npm, bower
-Deployment services         | Capifony, Deployer
+Caching services            | Varnish
+Package managers            | pip
+Continuous Integration      | Jenkins
 Fulltext search services    | Elasticsearch, Sphinx
 Multiprocessing services    | Gearman
-Testing tools               | phpunit, phpspec
-HTTP services               | nginx, Apache
+Testing tools               | unittest
+HTTP services               | nginx
 Version control             | Git, SVN
 Virtualization              | VirtualBox, Vagrant, Docker
 Operation systems           | FreeBSD, Debian, Ubuntu, Mac OSX, Windows
