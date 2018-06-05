@@ -1,7 +1,5 @@
-Resume
-===
 Personal information
----
+===
 Name: Maksim Khortov  
 Address: USA, Brooklyn, NY  
 Phone: +1(718)710-7892  
@@ -160,7 +158,7 @@ Sep 2006 - Jul 2007 | Far Eastern National University, Computer Science
 Sep 2003 - Jul 2004 | Ussuriysk State Pedagogical Institute, Physics and Computer Science
 
 Skills
----
+===
 Category                    | Items
 ----------------------------|----------------------------------------------------------------
 Programming languages       | Java, JavaScript, TypeScript, CoffeeScript, Shell Script, C/C++

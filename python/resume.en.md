@@ -1,7 +1,5 @@
-Resume
-===
 Personal information
----
+===
 Name: Maksim Khortov  
 Address: USA, Brooklyn, NY  
 Phone: +1(718)710-7892  
@@ -150,7 +148,7 @@ My duties included:
 - Build new computers and replace old technology.
 
 Education
----
+===
 Period              | Responsibilities
 --------------------|-------------------------------------------------------------
 Feb 2014 - May 2014 | Java 24-hours traning by Yakov Fine
@@ -160,7 +158,7 @@ Sep 2006 - Jul 2009 | Far Eastern Federal University, Computer Science
 Sep 2003 - Jul 2008 | Far Eastern Federal University, Physics and Computer Science
 
 Skills
----
+===
 Category                    | Items
 ----------------------------|------------------------------------------------------------------
 Programming languages       | Python, JavaScript, TypeScript, CoffeeScript, Shell Script, C/C++
