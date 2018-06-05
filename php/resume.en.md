@@ -11,10 +11,32 @@ Experience
 ===
 Co-Founder, Fullstack Developer
 ---
-01.08.2016 - 21.12.2017(1 year 6 months)  
+01.08.2016 - 13.04.2018(1 year 8 months)  
 Linbo LLC (Advanced online message board)  
 My duties included:  
-- [need continue] 
+- Thinking Business Ideas;
+- Designing an Application;
+- Description of the requirements for the stack of technologies;
+- Selecting the right technology stack;
+- Selection of third-party services for integration;
+- Interaction with UI designer;
+- Web page layout for the Web;
+- Page Layout for mobile application version;
+- Drawing up of the technical project on the basis of the description of business idea;
+- Drawing up a list of tasks to develop an application;
+- Prioritization of tasks and breakdown by cycle;
+- Writing code on previously assigned tasks;
+- Integration of the application with third-party services through the API;
+- Integration of the application with payment services;
+- Managing the rest of the developers;
+- Quality control of the code;
+- Testing the code through manual and automatic testing;
+- Optimizing application pages for W3C requirements;
+- Configuring a dedicated Linux server to host the application;
+- Monitoring the operation of the dedicated server and troubleshooting;
+- Configuring the application deployment system on the server;
+- Conducting weekly releases;
+- Correcting application errors and debugging;
 
 Fullstack Developer
 ---
@@ -44,7 +66,7 @@ My duties included:
 - Interaction with the customer at the stage of creating prototypes of the interface;
 - Creating UML schemas for describing the business logic of an application;
 - Create a description of the data schema for the application;
-- Creating and editing code(PHP, Python, Java, C++, JavaScript);
+- Creating and editing code;
 - Developer management and code quality control;
 - Testing the code;
 - Debugging and fixing errors in applications;
@@ -57,7 +79,7 @@ Fullstack Developer
 24.04.2012 - 12.06.2013(1 year 2 months)  
 Youg-Avto LLC (Sale and service of cars)  
 My duties included:  
-- Support and update of company sites(PHP, CodeIgniter, MySQL, JavaScript, jQuery, HTML, CSS);
+- Support and update of company sites;
 - Creation and launch of new company sites;
 - Integration of company sites with systems of accounting for parts and consumables;
 - Setting up private servers to host sites running Linux and FreeBSD;
@@ -83,8 +105,8 @@ My duties included:
 - Search for brokers at auctions;
 - Search for customs brokers;
 - Calculation of the final cost of cars and parts, including shipping;
-- Developing a web application for clients(PHP, MySQL, JavaScript, HTML, CSS);
-- Development of an application management module(PHP, MySQL, JavaScript, HTML, CSS);
+- Developing a web application for clients;
+- Development of an application management module;
 - Integration with the data flow services on the upcoming auctions at auctions;
 - Search and support of clients of service;
 - Control of purchase, customs clearance and delivery.
@@ -128,7 +150,7 @@ My duties included:
 Education
 ===
 Period              | Responsibilities
---------------------|-------------------------------------------------------------
+--------------------|--------------------------------------------------------------------
 Feb 2014 - May 2014 | Java 24-hours traning by Yakov Fine
 Jun 2013 - Nov 2013 | Synfony2 courses Middle Developer
 Sep 2010 - Nov 2010 | Networks and Linux courses
@@ -138,8 +160,8 @@ Sep 2003 - Jul 2004 | Ussuriysk State Pedagogical Institute, Physics and Compute
 Skills
 ===
 Category                    | Items
-----------------------------|--------------------------------------------------------
-Programming languages       | PHP, JavaScript, TypeScript, CoffeeScript, Shell Script
+----------------------------|---------------------------------------------------------------
+Programming languages       | PHP, JavaScript, TypeScript, CoffeeScript, Shell Script, C/C++
 Query languages             | SQL
 Layout languages            | HTML 5, CSS, SASS, SCSS, Less 
 Methodologies               | OOA, OOD, OOP, Design patterns, TDD
