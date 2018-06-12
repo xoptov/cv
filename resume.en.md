@@ -1,7 +1,11 @@
+# Maksim Khortov
+## Software developer
+
 Personal information
 ===
 Name: Maksim Khortov  
 Address: USA, Brooklyn, NY  
+Visa status: Green Card  
 Phone: +1(718)710-7892  
 Email: xoptov@gmail.com  
 Telegram: @xoptov  
@@ -11,9 +15,8 @@ Experience
 ===
 Co-Founder, Fullstack Developer
 ---
-01.08.2016 - 13.04.2018(1 year 8 months)  
+01.08.2016 - 13.04.2018  
 Linbo LLC (Advanced online message board)  
-My duties included:  
 - Thinking Business Ideas;
 - Designing an Application;
 - Description of the requirements for the stack of technologies;
@@ -40,9 +43,8 @@ My duties included:
 
 Fullstack Developer
 ---
-10.07.2015 - 01.08.2016(1 year)  
-Fin-Service LLC (Software development for the financial sector)  
-My duties included:  
+10.07.2015 - 01.08.2016   
+Fin-Service LLC (Software development for the financial sector)    
 - Automation of business processes of microfinance organizations;
 - Creating and editing code for projects;
 - Code Coverage;
@@ -53,9 +55,8 @@ My duties included:
 
 Fullstack Developer, Team lead
 ---
-12.06.2013 - 12.05.2015(1 year 11 months)  
+12.06.2013 - 12.05.2015  
 Clever-Web LLC (Outsourcing software development company)  
-My duties included:  
 - Interaction with the customer at the stage of the project idea;
 - Drawing up a work plan for the development of the project;
 - Determination of the main objectives of project development;
@@ -76,9 +77,8 @@ My duties included:
 
 Fullstack Developer
 ---
-24.04.2012 - 12.06.2013(1 year 2 months)  
-Youg-Avto LLC (Sale and service of cars)  
-My duties included:  
+24.04.2012 - 12.06.2013  
+Youg-Avto LLC (Sale and service of cars)    
 - Support and update of company sites;
 - Creation and launch of new company sites;
 - Integration of company sites with systems of accounting for parts and consumables;
@@ -86,9 +86,8 @@ My duties included:
 
 System Engineer
 ---
-01.12.2009 - 04.03.2011(1 year 2 months)  
+01.12.2009 - 04.03.2011  
 Arsenal LLC (Security company)  
-My duties included:  
 - Installation and maintenance of video surveillance systems;
 - Installation of communication for video surveillance systems;
 - Configuring DVRs and PTZs;
@@ -98,9 +97,8 @@ My duties included:
 
 Founder, Fullstack Developer
 ---
-10.01.2008 - 01.12.2009(1 year 11 months)  
+10.01.2008 - 01.12.2009  
 Japan Car And Part Service (Service orders for cars from Japanese auctions and spare parts)  
-My duties included:  
 - Business Process Development;
 - Search for brokers at auctions;
 - Search for customs brokers;
@@ -113,9 +111,8 @@ My duties included:
 
 System Engineer
 ---
-14.03.2005 - 28.12.2007(2 years 7 months)  
+14.03.2005 - 28.12.2007  
 Ussurisky Balsam OJSC (Largest alcohol beverage producer in the Far East of Russia)  
-My duties included:  
 - Serving an electronic computer network consisting of 240 computers and 5 servers;
 - Troubleshoot problems with Windows computers;
 - Troubleshoot software problems on computers;
@@ -136,9 +133,8 @@ My duties included:
 
 System Engineer
 ---
-21.09.2004 - 14.03.2005(6 months)  
+21.09.2004 - 14.03.2005  
 Artel LLC (Manufacture and sale of building materials)  
-My duties included:  
 - Servicing of electronic network;
 - Service and repair of computers running OS Windows;
 - Network equipment configuration: servers, switches, routers, modems;
@@ -154,40 +150,71 @@ Period              | Responsibilities
 Feb 2014 - May 2014 | Java 24-hours traning by Yakov Fine
 Jun 2013 - Nov 2013 | Synfony2 courses Middle Developer
 Sep 2010 - Nov 2010 | Networks and Linux courses
-Sep 2006 - Jul 2007 | Far Eastern National University, Computer Science
-Sep 2003 - Jul 2004 | Ussuriysk State Pedagogical Institute, Physics and Computer Science
+Sep 2003 - Jul 2008 | Far Eastern National University, Computer Science
 
 Skills
 ===
-Category                    | Items
-----------------------------|----------------------------------------------------------------
-Programming languages       | Java, JavaScript, TypeScript, CoffeeScript, Shell Script, C/C++
-Query languages             | SQL
-Layout languages            | HTML 5, CSS, SASS, SCSS, Less 
-Methodologies               | OOA, OOD, OOP, Design patterns, TDD
-Standards                   | RESTful, SOAP
-Understanding protocols     | IP, TCP, UDP, HTTP, HTTPS, WebSocket, FTP, SMTP, XMPP
-Backend frameworks          | J2EE, Spring
-Frontend frameworks         | Angular, BackboneJS, MarionetteJS, jQuery, Bootstrap
-Databases                   | MySQL, PostgreSQL, MongoDB, SQLite, Derby, Microsoft Access
-DB frameworks               | JPA, Hibernate
-Storage services            | Redis, Memcache
-Messaging services          | OpenMQ, ActiveMQ, RabbitMQ
-WebSocket services          | SocketIO
-Caching services            | JCS, Varnish
-Build tools                 | Maven, Gradle
-Continuous Integration      | Jenkins
-Fulltext search services    | Elasticsearch, Sphinx
-Multiprocessing services    | Gearman
-Testing tools               | Junit
-Application services        | GlassFish
-Servlet services            | Tomcat    
-Version control             | Git, SVN
-Virtualization              | VirtualBox, Vagrant, Docker
-Operation systems           | FreeBSD, Debian, Ubuntu, Mac OSX, Windows
-AWS services                | EC2, S3, DynamoDB, RDS, Lambda
-Payment system integrations | PayPal, WebMoney, Perfect Money, Qiwi, Stripe, Skrill
+Skill           | Experience in years | Last used | Level (1-10)
+----------------|---------------------|-----------|-------------
+Java            | 3                   | 04.2018   | 8
+PHP             | 10+                 | 06.2018   | 10
+Python          | 2                   | 08.2016   | 6
+NodeJS          | 2                   | 05.2015   | 7
+JavaScript      | 10+                 | 04.2018   | 10
+TypeScript      | 2                   | 04.2018   | 8
+CoffeeScript    | 1                   | 05.2015   | 5
+ShellScript     | 5                   | 05.2015   | 5
+C/C++           | 2                   | 05.2015   | 8
+SQL             | 10+                 | 06.2018   | 10
+HTML            | 10+                 | 04.2018   | 8
+CSS             | 10+                 | 04.2018   | 8
+SASS            | 2                   | 08.2016   | 6
+SCSS            | 2                   | 08.2016   | 5
+Less            | 5                   | 04.2018   | 8
+OOP             | 8                   | 06.2018   | 10
+Design patterns | 7                   | 06.2018   | 7
+TDD             | 5                   | 06.2018   | 10
+RESTful         | 5                   | 06.2018   | 10
+SOAP            | 2                   | 08.2016   | 7
+TCP/IP          | 15                  | 06.2018   | 10
+J2EE            | 3                   | 04.2018   | 6
+Spring          | 1                   | 08.2016   | 3
+Symfony         | 5                   | 08.2016   | 10
+Django          | 1                   | 08.2016   | 5
+Angular         | 2                   | 04.2018   | 6
+BackboneJS      | 5                   | 12.2017   | 10
+MerionetteJS    | 5                   | 12.2017   | 10
+jQuery          | 7                   | 04.2018   | 10
+Bootstrap       | 7                   | 04.2018   | 10
+JPA             | 1                   | 08.2016   | 5
+Hibernate       | 2                   | 04.2018   | 7
+Doctrine ORM    | 5                   | 04.2018   | 10
+Redis           | 4                   | 04.2018   | 7
+Memcache        | 2                   | 05.2015   | 5
+RabbitMQ        | 2                   | 04.2018   | 7
+SocketIO        | 1                   | 05.2015   | 5
+JCS             | 1                   | 04.2018   | 8
+Varnish         | 2                   | 05.2015   | 5
+Elasticsearch   | 3                   | 05.2015   | 7
+Sphinx          | 1                   | 05.2015   | 3
+Gearman         | 1                   | 05.2015   | 5
+Maven           | 2                   | 04.2018   | 7
+Gradle          | 1                   | 05.2015   | 4
+Jenkins         | 3                   | 05.2015   | 7
+Junit           | 3                   | 04.2018   | 7
+phpunit         | 5                   | 04.2018   | 10
+Git             | 7                   | 06.2018   | 8
+Subversion      | 1                   | 05.2013   | 5
+GlassFish       | 3                   | 06.2018   | 5
+Tomcat          | 1                   | 07.2016   | 3
+VirtualBox      | 5                   | 08.2016   | 8
+Vagrant         | 2                   | 08.2016   | 5
+Docker          | 2                   | 08.2016   | 5
+FreeBSD         | 15                  | 04.2018   | 10
+Debian          | 7                   | 04.2018   | 10
+Ubuntu          | 7                   | 04.2018   | 8
+Mac OSX         | 4                   | 06.2018   | 6 
 
 Additional information
 ===
-I want to craft great software alone or with teams whose members skills and talents fit together well.  Ten years of building large and complex WEB applications plus a natural talent for programming turned me into the software developer I could not have imagined when I began programming years ago. My ability to build very large and complex web applications naturally implies that I welcome the  challenges of realizing daring ideas. That is aside from the opportunity of learning something new ,which every new challenge brings. Needless to say that I also have a thorough grasp of the HTTP protocol and how to develop WEB services using SOAP or Restful. I do not only build my beauties in record time but also build them by nothing less than the cleanest code. It is enough to say that the softwares I build just works. That is great for me, great for my clients and great for my past employers.   
+   I want to craft great software alone or with teams whose members skills and talents fit together well.  Ten years of building large and complex WEB applications plus a natural talent for programming turned me into the software developer I could not have imagined when I began programming years ago. My ability to build very large and complex web applications naturally implies that I welcome the  challenges of realizing daring ideas. That is aside from the opportunity of learning something new ,which every new challenge brings. Needless to say that I also have a thorough grasp of the HTTP protocol and how to develop WEB services using SOAP or Restful. I do not only build my beauties in record time but also build them by nothing less than the cleanest code. It is enough to say that the softwares I build just works. That is great for me, great for my clients and great for my past employers.   
