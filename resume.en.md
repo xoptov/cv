@@ -145,12 +145,13 @@ Artel LLC (Manufacture and sale of building materials)
 
 Education
 ===
-Period              | Responsibilities
---------------------|--------------------------------------------------------------------
-Feb 2014 - May 2014 | Java 24-hours traning by Yakov Fine
-Jun 2013 - Nov 2013 | Synfony2 courses Middle Developer
-Sep 2010 - Nov 2010 | Networks and Linux courses
-Sep 2003 - Jul 2008 | Far Eastern National University, Computer Science
+Period   | Responsibilities
+---------|--------------------------------------------------
+May 2014 | Java 24-hours traning by Yakov Fine
+Nov 2013 | Synfony2 courses Middle Developer
+Aug 2012 | Introduction to programming languages C and C++
+Nov 2010 | Networks and Linux courses
+Jul 2008 | Far Eastern National University, Computer Science
 
 Skills
 ===
