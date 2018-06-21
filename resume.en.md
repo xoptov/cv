@@ -4,12 +4,12 @@
 Personal information
 ===
 Name: Maksim Khortov  
-Address: USA, Brooklyn, NY  
-Visa status: Green Card  
-Phone: +1(718)710-7892  
+Address: Brooklyn, NY  
 Email: xoptov@gmail.com  
 Telegram: @xoptov  
 Skype: xoptov  
+Visa status: Green Card (Permanent Resident)  
+Work Authorization: Yes  
 
 Experience
 ===
@@ -145,13 +145,14 @@ Artel LLC (Manufacture and sale of building materials)
 
 Education
 ===
-Period   | Responsibilities
+Date     | Responsibilities
 ---------|--------------------------------------------------
 May 2014 | Java 24-hours traning by Yakov Fine
 Nov 2013 | Synfony2 courses Middle Developer
 Aug 2012 | Introduction to programming languages C and C++
 Nov 2010 | Networks and Linux courses
 Jul 2008 | Far Eastern National University, Computer Science
+Jun 2003 | Hight School
 
 Skills
 ===
