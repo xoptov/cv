@@ -151,7 +151,6 @@ May 2014 | Java 24-hours traning by Yakov Fine
 Nov 2013 | Synfony2 courses Middle Developer
 Aug 2012 | Introduction to programming languages C and C++
 Nov 2010 | Networks and Linux courses
-Jul 2008 | Far Eastern National University, Computer Science
 Jun 2003 | Hight School
 
 Skills
