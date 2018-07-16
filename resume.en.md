@@ -157,15 +157,13 @@ Skills
 ===
 Skill           | Experience in years | Last used | Level (1-10)
 ----------------|---------------------|-----------|-------------
-Java            | 3                   | 04.2018   | 8
 PHP             | 10+                 | 06.2018   | 10
-Python          | 2                   | 08.2016   | 6
 NodeJS          | 2                   | 05.2015   | 7
 JavaScript      | 10+                 | 04.2018   | 10
 TypeScript      | 2                   | 04.2018   | 8
 CoffeeScript    | 1                   | 05.2015   | 5
 ShellScript     | 5                   | 05.2015   | 5
-C/C++           | 2                   | 05.2015   | 8
+C/C++           | 2                   | 05.2015   | 6
 SQL             | 10+                 | 06.2018   | 10
 HTML5           | 5                   | 04.2018   | 8
 CSS3            | 5                   | 04.2018   | 8
@@ -179,37 +177,27 @@ TDD             | 5                   | 06.2018   | 10
 RESTful         | 5                   | 06.2018   | 10
 SOAP            | 2                   | 08.2016   | 7
 TCP/IP          | 15                  | 06.2018   | 10
-J2EE            | 3                   | 04.2018   | 6
-Spring          | 1                   | 08.2016   | 3
 Symfony         | 5                   | 08.2016   | 10
-Django          | 1                   | 08.2016   | 5
 Angular         | 2                   | 04.2018   | 6
 BackboneJS      | 5                   | 12.2017   | 10
 MerionetteJS    | 5                   | 12.2017   | 10
 jQuery          | 7                   | 04.2018   | 10
 Bootstrap       | 7                   | 04.2018   | 10
-JPA             | 1                   | 08.2016   | 5
-Hibernate       | 2                   | 04.2018   | 7
 Doctrine ORM    | 5                   | 04.2018   | 10
 Redis           | 4                   | 04.2018   | 7
 Memcache        | 2                   | 05.2015   | 5
 RabbitMQ        | 2                   | 04.2018   | 7
 SocketIO        | 1                   | 05.2015   | 5
-JCS             | 1                   | 04.2018   | 8
 Varnish         | 2                   | 05.2015   | 5
 Elasticsearch   | 3                   | 05.2015   | 7
 Sphinx          | 1                   | 05.2015   | 3
 Gearman         | 1                   | 05.2015   | 5
-Maven           | 2                   | 04.2018   | 7
-Gradle          | 1                   | 05.2015   | 4
 Jenkins         | 3                   | 05.2015   | 7
 Selenium        | 3                   | 05.2015   | 5
 Junit           | 3                   | 04.2018   | 7
 phpunit         | 5                   | 04.2018   | 10
 Git             | 7                   | 06.2018   | 8
 Subversion      | 1                   | 05.2013   | 5
-GlassFish       | 3                   | 06.2018   | 5
-Tomcat          | 1                   | 07.2016   | 3
 VirtualBox      | 5                   | 08.2016   | 8
 Vagrant         | 2                   | 08.2016   | 5
 Docker          | 2                   | 08.2016   | 5
